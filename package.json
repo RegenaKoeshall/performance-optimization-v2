@@ -1,0 +1,21 @@
+{
+  "name": "performance-optimization-v2",
+  "version": "1.0.0",
+  "description": "\"Project 11, optimize a project to have 27 or less http requests\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.5.0",
+    "gulp-uglify": "^2.1.2",
+    "install": "^0.8.8",
+    "npm": "^4.4.4"
+  }
+}
